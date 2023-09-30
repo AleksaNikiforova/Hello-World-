@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\bin\Debug\net6.0\Example006.exe
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\bin\Debug\net6.0\Example006.deps.json
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\bin\Debug\net6.0\Example006.runtimeconfig.json
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\bin\Debug\net6.0\Example006.dll
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\bin\Debug\net6.0\Example006.pdb
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\obj\Debug\net6.0\Example006.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\obj\Debug\net6.0\Example006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\obj\Debug\net6.0\Example006.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\obj\Debug\net6.0\Example006.AssemblyInfo.cs
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\obj\Debug\net6.0\Example006.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\obj\Debug\net6.0\Example006.dll
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\obj\Debug\net6.0\refint\Example006.dll
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\obj\Debug\net6.0\Example006.pdb
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\obj\Debug\net6.0\Example006.genruntimeconfig.cache
+C:\Users\Home\Desktop\GB. Git\Lesson 1. C#\1. HelloConsole\Example006\obj\Debug\net6.0\ref\Example006.dll
